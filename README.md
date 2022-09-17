@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kotlin, Flutter, Selenium**
 
-- 📫 How to reach me **adrianesqueiros@gmail.com**
+- 📫 How to reach me **adrianesqueiros@gmail.com** **u201718169@upc.edu.pe**
 
 
 ## Languages and Tools:
